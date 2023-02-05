@@ -1,1 +1,6 @@
 0x01-git
+mkdir bash 
+mkdir c
+mkdir js
+touch c/c_is_fun.c
+js
