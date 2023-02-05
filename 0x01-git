@@ -2,5 +2,6 @@
 mkdir bash 
 mkdir c
 mkdir js
-touch c/c_is_fun.c
-js
+touch c_is_fun.c > c
+touch main.js > js
+touch index.js > js
